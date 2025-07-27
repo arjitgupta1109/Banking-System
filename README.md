@@ -15,7 +15,7 @@ A vibrant, full-stack web application for managing basic banking information. Us
 
 ---
 
-## 🧩 Tech Stack
+#  Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: Node.js, Express.js
